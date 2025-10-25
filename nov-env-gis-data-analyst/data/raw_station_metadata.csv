@@ -1,0 +1,18 @@
+THIS IS A HEADER,foo, Station ID ,SiteName,Latitude,Longitude,Coordinates,Elev,Agency_Code,CRS,Notes
+StationMetadata v0.1,bar,,,,,,,,,
+,,S001,River Site 1,37.872701,-78.532764,,246.9 m,City Lab,,  
+,,S002,River Site 2,40.753572,-77.566062,,76.5 m,EPA,,Near bridge
+,,S003,River Site 3,,,"39.65997,-75.801949",35.4 m,USGS,EPSG:4326,Upstream
+,,S004,River Site 4,"38°59'35""N","76°32'39""S",,380.1 m,USGS,,Downstream
+,,S005 ,River Site 5,"36°46'48""N","77°40'12""S",,386.6 m,City Lab,NAD83,
+,,S006 ,River Site 6,"36°46'47""N","75°6'18""S",,325.3 m,DWR,EPSG:4326,
+,,S007,River Site 7,36.290418,-78.884049,,128.8 m,County Env,NAD83,Upstream
+,,S008,River Site 8,40.330881,-77.662843,,48.1 m,USGS,EPSG:4269,  
+,,S009,River Site 9,-77.069105,39.005575,,276.9 m,County Env,NAD83,
+,,S010,River Site 10,39.540363,-76.35144,,181.7 ft,DWR,EPSG:4326,
+,,S011,River Site 11,36.102922,-73.718592,,57.6 ft,USGS,WGS84,
+,,S012,River Site 12,40.849549,-78.40261,,203.1 m,EPA,,Downstream
+,,S013,River Site 13  ,"40°9'43""N","75°53'10""S",,23.4 m,City Lab,EPSG:4269,  
+,,S014,River Site 14,"37°3'42""N","75°15'38""S",,364.6 m,DWR,WGS84,
+,,S015,River Site 15,36.909125,-79.628397,,110.9 m,USGS,EPSG:4326,Near bridge
+,,S004,River Site 4,"38°59'35""N","76°32'39""S",,380.1 m,USGS,,Downstream
